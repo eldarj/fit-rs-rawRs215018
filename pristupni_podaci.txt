@@ -1,0 +1,18 @@
+----- Desktop winforms App (user roles) ------
+Admin username: admin
+Admin passworod: test
+
+Vlasnik username: vlasnik
+Vlasnik password: test
+
+Zaposlenik username: zaposlenik
+Zaposlenik password: test
+
+
+----- Mobile App (user roles) ------
+Narucilac username: narucilac
+Narucilac passworod: test
+
+
+
++++++ Svim userima u bazi je lozinka postavljena na 'test'
